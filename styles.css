@@ -133,3 +133,30 @@ li {
     font-weight: 900;
     color: #1F2937;
 }
+
+.call-to-action-container {
+    padding: 100px 15%;
+}
+
+.call-to-action-box
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.call-to-action-button {
+    background-color: #3882F6;
+    border: none;
+    outline: 4px solid #E5E7EB;
+    color: #E5E7EB;
+    padding: 5px 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-weight: 900;
+}
